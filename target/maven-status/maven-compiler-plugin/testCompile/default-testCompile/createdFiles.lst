@@ -1,0 +1,9 @@
+com\practice\pageObjects\LoginPage.class
+com\practice\testCases\TC_003.class
+com\practice\testCases\TC_001.class
+com\practice\pageObjects\AddCustomerPage.class
+com\practice\testCases\TC_002_DD.class
+com\practice\utilities\Reporting.class
+com\practice\utilities\XLUtils.class
+com\practice\utilities\ReadConfig.class
+com\practice\testCases\BaseCase.class

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Suite">
+	<listeners>
+		<listener class-name="com.practice.utilities.Reporting" />
+	</listeners>
+	<test name="Test 001">
+		<parameter name="Browser" value="chrome" />
+		<classes>
+			<class name="com.practice.testCases.TC_001" />
+			<class name="com.practice.testCases.TC_002_DD" />
+			<class name="com.practice.testCases.TC_003" />
+		</classes>
+	</test>
+</suite>
